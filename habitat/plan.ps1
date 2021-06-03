@@ -1,7 +1,7 @@
 ﻿$pkg_name="wintest"
 $pkg_origin="bbb"
 $pkg_version="0.2.0"
-$pkg_maintainer="Matt Wrock, Murali Valluri"
+$pkg_maintainer="Riju, Matt Wrock, Murali Valluri"
 $pkg_license=@('MIT')
 $pkg_description="A sample .NET Windows Service"
 $pkg_bin_dirs=@("bin")
