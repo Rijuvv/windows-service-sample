@@ -1,4 +1,4 @@
-﻿$pkg_name="win"
+﻿$pkg_name="wintest"
 $pkg_origin="bbb"
 $pkg_version="0.2.0"
 $pkg_maintainer="Matt Wrock, Murali Valluri"
