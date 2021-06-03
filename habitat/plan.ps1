@@ -1,5 +1,5 @@
-﻿$pkg_name="windows-service-sample"
-$pkg_origin="mwrock"
+﻿$pkg_name="win"
+$pkg_origin="habtest"
 $pkg_version="0.2.0"
 $pkg_maintainer="Matt Wrock, Murali Valluri"
 $pkg_license=@('MIT')
